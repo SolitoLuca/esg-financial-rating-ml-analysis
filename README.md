@@ -40,9 +40,9 @@ Il progetto analizza un dataset di 503 aziende dello S&P 500, integrando dati fi
 * `/docs`: Abstract o sintesi della tesi in PDF.
 
 ## 🚀 Come replicare l'analisi
-1. Clona il repository: `git clone https://github.com/tuo-username/esg-financial-rating-ml-analysis.git`
-2. Assicurati di avere R e i pacchetti necessari (`glmnet`, `randomForest`, `gbm`, `caret`, `missForest`).
-3. Esegui lo script principale: `main_analysis.R`.
+1. Clona il repository
+2. Assicurati di avere R e i pacchetti necessari
+3. Esegui lo script principale
 
 ---
 **Contatti:** [Luca Solito](www.linkedin.com/in/luca-solito-2a561b1b5)  
