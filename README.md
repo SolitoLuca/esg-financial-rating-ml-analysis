@@ -45,5 +45,5 @@ Il progetto analizza un dataset di 503 aziende dello S&P 500, integrando dati fi
 3. Esegui lo script principale
 
 ---
-**Contatti:** [Luca Solito](www.linkedin.com/in/luca-solito-2a561b1b5)  
+**Contatti:** [Luca Solito](https://www.linkedin.com/in/luca-solito-2a561b1b5)  
 **Università:** Università degli Studi di Firenze - Scuola di Economia e Management
