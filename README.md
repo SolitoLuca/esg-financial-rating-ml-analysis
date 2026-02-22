@@ -37,7 +37,7 @@ Il progetto analizza un dataset di 503 aziende dello S&P 500, integrando dati fi
 ## 📁 Struttura del Repository
 * `/code`: Script R per la pulizia dei dati, l'EDA e la stima dei modelli.
 * `/data`: Dataset.
-* `/docs`: tesi in PDF.
+* `/docs`: Tesi in PDF.
 
 ---
 **Contatti:** [Luca Solito](https://www.linkedin.com/in/luca-solito-2a561b1b5)  
