@@ -36,13 +36,8 @@ Il progetto analizza un dataset di 503 aziende dello S&P 500, integrando dati fi
 
 ## 📁 Struttura del Repository
 * `/code`: Script R per la pulizia dei dati, l'EDA e la stima dei modelli.
-* `/data`: Dataset (nota: i dati Factset originali potrebbero essere soggetti a licenza).
-* `/docs`: Abstract o sintesi della tesi in PDF.
-
-## 🚀 Come replicare l'analisi
-1. Clona il repository
-2. Assicurati di avere R e i pacchetti necessari
-3. Esegui lo script principale
+* `/data`: Dataset.
+* `/docs`: tesi in PDF.
 
 ---
 **Contatti:** [Luca Solito](https://www.linkedin.com/in/luca-solito-2a561b1b5)  
